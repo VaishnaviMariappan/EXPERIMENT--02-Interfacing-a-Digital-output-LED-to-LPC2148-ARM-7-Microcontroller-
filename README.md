@@ -143,7 +143,7 @@ int main()
 LED OFF:
 ![off](./off2.png)
 LED ON:
-![on](./on.jpeg)
+![on](./on.png)
 CIRCUIT DIAGRAM:
 ![circuit](./pro%20pic.png)
 ## Result :
